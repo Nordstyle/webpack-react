@@ -1,7 +1,7 @@
 {
-  "name": "mark-app-veeam",
+  "name": "webpack-react-template",
   "version": "1.0.0",
-  "description": "test task",
+  "description": "webpack-react-template",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nordstyle/mark-app-veeam.git"
+    "url": "git+https://github.com/Nordstyle/webpack-react.git"
   },
   "dependencies": {
     "react": "^17.0.2",
@@ -57,9 +57,5 @@
     "veeam"
   ],
   "author": "Anatoliy Z.",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Nordstyle/mark-app-veeam/issues"
-  },
-  "homepage": "https://github.com/Nordstyle/mark-app-veeam#readme"
+  "license": "ISC"
 }
